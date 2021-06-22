@@ -7,3 +7,5 @@ Trabalho de A2 de Introdução à Ciência de Dados do Curso de graduação em C
 * Lindsey de Azevedo
 
 Exploramos a base [Cyber Incidents Up to 2020](#https://www.kaggle.com/fireballbyedimyrnmom/cyber-incidents-up-to-2020).
+
+OBS.: Foi adicionado o .html, pois no documento .ipynb não estavam aparecendo as visualizações. 
